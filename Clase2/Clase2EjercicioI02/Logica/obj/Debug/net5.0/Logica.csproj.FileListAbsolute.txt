@@ -1,0 +1,12 @@
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\bin\Debug\net5.0\Logica.deps.json
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\bin\Debug\net5.0\Logica.dll
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\bin\Debug\net5.0\ref\Logica.dll
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\bin\Debug\net5.0\Logica.pdb
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\obj\Debug\net5.0\Logica.csprojAssemblyReference.cache
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\obj\Debug\net5.0\Logica.dll
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\obj\Debug\net5.0\ref\Logica.dll
+E:\facultad\2-Labo II\Ejercicios\primeraClase\Clase1EjercicioI02\Logica\obj\Debug\net5.0\Logica.pdb

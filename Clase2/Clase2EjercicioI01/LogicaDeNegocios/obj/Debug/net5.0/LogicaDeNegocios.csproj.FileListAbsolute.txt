@@ -1,0 +1,12 @@
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\bin\Debug\net5.0\LogicaDeNegocios.deps.json
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\bin\Debug\net5.0\LogicaDeNegocios.dll
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\bin\Debug\net5.0\ref\LogicaDeNegocios.dll
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\bin\Debug\net5.0\LogicaDeNegocios.pdb
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\obj\Debug\net5.0\LogicaDeNegocios.csprojAssemblyReference.cache
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\obj\Debug\net5.0\LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\obj\Debug\net5.0\LogicaDeNegocios.AssemblyInfoInputs.cache
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\obj\Debug\net5.0\LogicaDeNegocios.AssemblyInfo.cs
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\obj\Debug\net5.0\LogicaDeNegocios.csproj.CoreCompileInputs.cache
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\obj\Debug\net5.0\LogicaDeNegocios.dll
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\obj\Debug\net5.0\ref\LogicaDeNegocios.dll
+E:\facultad\2-Labo II\Ejercicios\Clase2EjercicioI01\LogicaDeNegocios\obj\Debug\net5.0\LogicaDeNegocios.pdb
